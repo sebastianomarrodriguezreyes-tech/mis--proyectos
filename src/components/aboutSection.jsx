@@ -1,0 +1,13 @@
+function AboutSection() {
+  return (
+    <section>
+      <h2>Sobre mí</h2>
+      <p>
+        Me interesa construir soluciones modernas con frontend, backend,
+        bases de datos y servicios cloud.
+      </p>
+    </section>
+  );
+}
+
+export default AboutSection;

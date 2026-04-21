@@ -19,3 +19,9 @@ Omar Rodriguez
 Este proyecto incluye un chatbot desarrollado en Chatfuel para gestionar solicitudes de cotización.
 
 [Haz clic aquí para probar el chatbot](https://m.me/978146335379857?ref=Cotizacion)
+
+
+## Calculadora en C#
+
+## Descripción
+Proyecto hecho por mi practicando con el lenguaje c#
